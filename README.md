@@ -28,7 +28,8 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/@siyuanbear" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=funsiyuan&show_icons=true&locale=en" alt="funsiyuan" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=funsiyuan&" alt="funsiyuan" /></p>
+<h2>📊 GitHub Stats</h2>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=funsiyuan&show_icons=true&locale=en&count_private=false" alt="funsiyuan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=funsiyuan&hide_border=false" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=funsiyuan&show_icons=true&locale=en&layout=compact" alt="funsiyuan" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=funsiyuan" alt="funsiyuan" /></a></p>
